@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Monitor",
+  "description": "Real-time cryptocurrency price fluctuations and trading volume analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
